@@ -1,0 +1,128 @@
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+/* sab margin khatam */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.draz-header{
+  background-color: #f85606;
+  padding: 5px 0 15px 0;
+}
+
+.top-link a{
+  color: white;
+  text-decoration: none;
+  font-size: 10px;
+  margin-left: 15px;
+}
+.logo{
+  color: white;
+  font-weight: bold;
+}
+.search-area .form-control{
+  height: 40px;
+  border: none;
+}
+
+.my-btn{
+  background-color: #ffe1d2;
+  color: #f85606;
+  width: 45px;
+  border: none;
+}
+
+.cart{
+  color: white;
+  font-size: 25px;
+}
+.menu{
+  background-color: maroon;
+}
+.p{
+  background-color:white;
+}
+.p span{
+  font-size: 25px;
+  color: maroon;
+}
+.p button{
+  font-size: 25px;
+  color:maroon;
+ font-weight: 500;
+ border:2px solid black;
+}
+.p button:hover{
+  font-size: 27px;
+  color:rgb(221, 77, 77);
+  font-weight: 600;
+  border-radius: 25px;
+}
+.btn button{
+  font-size: 15px;
+  padding: 9px 50px 9px 50px;
+  border-radius: 15px;
+  text-align: center;
+ 
+
+}
+.btn button:hover{
+  font-size: 18px;
+  padding:15px 70px;
+  border:3px solid white;
+  background-color: black;
+  color:white;
+
+}
+.text{
+  padding: 30px;
+  margin-top: 20px;
+  color: rgb(62, 71, 240);
+}
+.pak{
+  display: flex;
+}
+.pak .main{
+  padding: 30px;
+  margin-top:20px ;
+  color: rgb(62, 71, 240);
+}
+.pak .logo{
+  margin:30px;
+  padding:30px;
+
+}
+.img{
+  margin:40px;
+}
+.img span{
+  color:blue ;
+
+}
+.pur{
+  margin:20px;
+  padding:20px ;
+}
+.login-page{
+  background-color: #f85606;
+}
+.signup-page{
+  background-color: #f85606;
+
+}
+.HERO a{
+  text-decoration: none;
+  font-size: 30px;
+  color:white;
+  font-weight: bold;
+}
+.my{
+  margin:60px;
+
+}
